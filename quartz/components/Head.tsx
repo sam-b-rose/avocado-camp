@@ -16,6 +16,7 @@ export default (() => {
     const baseDir = fileData.slug === "404" ? path : pathToRoot(fileData.slug!)
 
     const iconPath = joinSegments(baseDir, "static/icon.png")
+    const fontStylePath = joinSegments(baseDir, "static/font/font-style.css")
     const ogImagePath = `https://${cfg.baseUrl}/static/og-image.png`
 
     return (
@@ -29,6 +30,7 @@ export default (() => {
             <link rel="stylesheet" href={googleFontHref(cfg.theme)} />
           </>
         )}
+        <link href={fontStylePath} rel="stylesheet" type="text/css" spa-preserve />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta property="og:title" content={title} />
         <meta property="og:description" content={description} />

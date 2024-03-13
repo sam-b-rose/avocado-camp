@@ -1,3 +1,11 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+pre.poetry {
+  font-size: 1.2rem;
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+  border: none;
+  padding: 0;
+  position: unset;
+}
