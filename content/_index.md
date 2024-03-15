@@ -4,7 +4,7 @@ tags:
   - evergreen
 ---
 
-Hi! I'm Sam. You've discovered my [[digital garden]]. It is a bit different than other sites and blogs, so some context will be useful.
+Hi! I'm Sam. You've discovered my [[notes/digital-garden]]. It is a bit different than other sites and blogs, so some context will be useful.
 
 These notes are a collection of my thoughts and thinking written mostly for myself. I am sharing them openly as an experiment of learning in the open ([[keeping the curtain up]]).
 

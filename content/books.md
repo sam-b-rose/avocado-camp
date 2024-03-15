@@ -8,11 +8,11 @@ aliases:
 
 A (mostly) up-to-date list of books I at some point, have wanted to read, am reading, or finished reading. Links are to pages/blog posts/ideas that were inspired by the book that's linked!
 
->  [“the end of a book’s wisdom appears to us as merely the start of our own,”](https://www.themarginalian.org/2016/10/20/proust-on-reading/) Nussbaum writes
+> [“the end of a book’s wisdom appears to us as merely the start of our own,”](https://www.themarginalian.org/2016/10/20/proust-on-reading/) Nussbaum writes
 
 ## To Read
 
-An **antilibrary** is a collection of books that are owned but have not yet been read. The term was coined by [Nassim Nicholas Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb "Nassim Nicholas Taleb"). The concept it describes has been compared to the Japanese _[tsundoku](https://en.wikipedia.org/wiki/Tsundoku "Tsundoku")_.
+An **antilibrary** is a collection of books that are owned but have not yet been read. The term was coined by [Nassim Nicholas Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb "Nassim Nicholas Taleb"). The concept it describes has been compared to the Japanese *[tsundoku](https://en.wikipedia.org/wiki/Tsundoku "Tsundoku")*.
 
 > Tsundoku (積ん読) is a beautiful Japanese word describing the habit of acquiring books but letting them pile up without reading them.
 
@@ -27,14 +27,14 @@ An **antilibrary** is a collection of books that are owned but have not yet be
 
 ## Current
 
-- [[On Desire]] by William B. Irvine
+- [[notes/on-desire|On Desire]] by William B. Irvine
 - **The Righteous Mind** by Jonathan Haidt
 
 ## Past
 
 ### 2024
 
-- [[The E-Myth Revisited]] by Michael E. Gerber
+- [[notes/the-e-myth-revisited|The E-Myth Revisited]] by Michael E. Gerber
 - [[The War of Art]] by Steven Pressfield
 - [[Digital Zettelkasten]] by David Kadavy
 
@@ -48,4 +48,4 @@ An **antilibrary** is a collection of books that are owned but have not yet be
 
 ### 2022
 
-- [[7 Habits of Highly Effective People ]] by Steven Covey
+- [[7 Habits of Highly Effective People]] by Steven Covey
