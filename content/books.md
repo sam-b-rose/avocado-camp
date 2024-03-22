@@ -16,14 +16,13 @@ An **antilibrary** is a collection of books that are owned but have not yet be
 
 > Tsundoku (積ん読) is a beautiful Japanese word describing the habit of acquiring books but letting them pile up without reading them.
 
+- **The One Thing** by Jay Papsan
+- **Useful Not True**by Derek Sivers
 - **Master of Change** by Brad Stulberg
 - **The Relationship Handbook** by George S. Pransky
 - **Six Easy Pieces** by Richard P. Feynman
 - **The Miracle of Mindfulness** by Tich Nah Han
 - **Poor Charlie's Almanack** by Peter D. Kaufman
-- **The One Thing** by Jay Papsan
-- **Useful Not True**by Derek Sivers
-- **The Power of Regret** by Daniel H. Pink
 
 ## Current
 
@@ -35,17 +34,17 @@ An **antilibrary** is a collection of books that are owned but have not yet be
 ### 2024
 
 - [[notes/the-e-myth-revisited|The E-Myth Revisited]] by Michael E. Gerber
-- [[The War of Art]] by Steven Pressfield
-- [[Digital Zettelkasten]] by David Kadavy
+- **The War of Art** by Steven Pressfield
+- **Digital Zettelkasten** by David Kadavy
 
 ### 2023
 
-- [[How To Live]], Derek Sivers
-- [[The Pathless Path]] by Paul Millard
+- **How To Live**, Derek Sivers
+- **The Pathless Path** by Paul Millard
 - [[Happy]] by Derren Brown
-- [[Hell Yeah or No]] by Derek Sivers
-- [[Anything You Want]] by Derek Sivers
+- **Hell Yeah or No** by Derek Sivers
+- **Anything You Want** by Derek Sivers
 
 ### 2022
 
-- [[7 Habits of Highly Effective People]] by Steven Covey
+- 7 Habits of Highly Effective People by Steven Covey

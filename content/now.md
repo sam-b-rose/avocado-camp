@@ -11,5 +11,5 @@ This page is nice reminder for myself, when I’m feeling unfocused. A public de
 
 ## March 2024
 
-- Building acovado.camp
-- *more coming soon*
+- Building [[notes/avocado-camp]]
+- Improving my practice of [[notes/digital-garden|digital-gardening]]
