@@ -39,9 +39,9 @@ An **antilibrary** is a collection of books that are owned but have not yet be
 
 ### 2023
 
-- **How To Live**, Derek Sivers
-- **The Pathless Path** by Paul Millard
 - [[notes/happy|Happy]] by Derren Brown
+- **The Pathless Path** by Paul Millard
+- **How To Live** by Derek Sivers
 - **Hell Yeah or No** by Derek Sivers
 - **Anything You Want** by Derek Sivers
 
