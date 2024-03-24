@@ -1,5 +1,5 @@
 ---
-title: curiosity
+title: Curiosity
 description: 
 date: 2024-03-17
 draft: false

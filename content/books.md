@@ -26,22 +26,22 @@ An **antilibrary** is a collection of books that are owned but have not yet be
 
 ## Current
 
-- [[notes/on-desire|On Desire]] by William B. Irvine
 - **The Righteous Mind** by Jonathan Haidt
 
 ## Past
 
 ### 2024
 
+- [[notes/on-desire|On Desire]] by William B. Irvine
 - [[notes/the-e-myth-revisited|The E-Myth Revisited]] by Michael E. Gerber
-- **The War of Art** by Steven Pressfield
+- [[notes/the-war-of-art|The War of Art]] by Steven Pressfield
 - **Digital Zettelkasten** by David Kadavy
 
 ### 2023
 
 - **How To Live**, Derek Sivers
 - **The Pathless Path** by Paul Millard
-- [[Happy]] by Derren Brown
+- [[notes/happy|Happy]] by Derren Brown
 - **Hell Yeah or No** by Derek Sivers
 - **Anything You Want** by Derek Sivers
 

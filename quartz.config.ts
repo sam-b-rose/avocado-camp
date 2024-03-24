@@ -20,19 +20,19 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "IBM Plex Sans",
+        header: "Roboto Slab",
         body: "Inter",
         code: "IBM Plex Mono",
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
+          light: "#FFFFFF",
           lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
+          gray: "#C8CAD0",
+          darkgray: "#5A6072",
+          dark: "#0A0C10",
+          secondary: "#7f5caa",
+          tertiary: "#87A7F9",
           highlight: "rgba(143, 159, 169, 0.15)",
         },
         darkMode: {
