@@ -8,7 +8,7 @@ tags:
 aliases:
 ---
 
-Steven Pressfield's main point is to combat and **Resistance** in pursuit of doing the creative work that fulfills you.
+Steven Pressfield's main point is to combat **Resistance** and pursue doing the creative work that fulfills you.
 
 ## Identifying Resistance
 
